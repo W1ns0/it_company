@@ -122,7 +122,7 @@
             // 
             btnLogin.BackColor = Color.FromArgb(156, 211, 216);
             btnLogin.FlatStyle = FlatStyle.Flat;
-            btnLogin.Location = new Point(112, 135);
+            btnLogin.Location = new Point(112, 136);
             btnLogin.Margin = new Padding(4);
             btnLogin.Name = "btnLogin";
             btnLogin.Size = new Size(134, 29);
